@@ -7,7 +7,7 @@ ___
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-GLP-%23F8952D">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
 
